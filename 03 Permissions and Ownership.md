@@ -69,7 +69,7 @@ Permissions are defined for three types of users:
 
 The `chmod` command is used to change file permissions. Here are examples using the symbolic method:
 
-- **Set Permissions:**shell
+- **Set Permissions:** shell
     `chmod u=rwx <filename>`
     
     - **`u`**: User
@@ -77,21 +77,21 @@ The `chmod` command is used to change file permissions. Here are examples usin
     - **`o`**: Other
     - **`a`**: All (user, group, other)
     
-- **Add Permissions:**shell
+- **Add Permissions:** shell
     `chmod go=rwx <filename> # or chmod go+rwx <filename>`
     
-- **Remove Permissions:**shell
+- **Remove Permissions:** shell
     `chmod go-wx <filename>`
     
     - Removes write and executable permissions from group and others.
 
 Examples:
-> 	`
-> 	chmod 755 foo.txt 
-> 	chmod +x eshan.me 
-> 	chmod u-x water.mp3
-> 	chmod u=rwx,g=rx,o= merry.txt
-> 	`
+ 	
+ 	`chmod 755 foo.txt` 
+ 	`chmod +x eshan.me` 
+ 	`chmod u-x water.mp3`
+ 	`chmod u=rwx,g=rx,o= merry.txt`
+ 	
     
 
 ## Binary/Octal Method
