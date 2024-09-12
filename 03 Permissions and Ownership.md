@@ -129,13 +129,13 @@ For example:
 
 ## Changing File and Directory Ownership
 
-1. **Change Owner:**shell
+1. **Change Owner:** shell
     `chown <owner> <filename>`
     
-    - **`<owner>`**: New owner's username.
-    - **`<filename>`**: File or directory name.
+    - **`<owner>`** : New owner's username.
+    - **`<filename>`** : File or directory name.
     
-2. **Change Group:**shell
+2. **Change Group:** shell
     `chgrp <group> <filename>`
     
     - **`<group>`**: New group's name.
