@@ -1,45 +1,45 @@
 
 ## Basic Shortcuts
 
-- **Ctrl + Alt + T**: Opens the terminal.
-- **Windows + Arrow**: Tiles windows.
+- Ctrl + Alt + T: Opens the terminal.
+- Windows + Arrow: Tiles windows.
 
 ## Terminal Shortcuts
 
 ## Font Adjustments
 
-- **Ctrl + Shift + +**: Increases the font size in the terminal.
-- **Ctrl + -**: Decreases the font size in the terminal.
-- **Ctrl + Shift + W**: Closes the terminal.
+- Ctrl + Shift + +: Increases the font size in the terminal.
+- Ctrl + -: Decreases the font size in the terminal.
+- Ctrl + Shift + W: Closes the terminal.
 
 ## Terminal Navigation
 
-- **Ctrl + L**: Clears the terminal screen.
-- **Ctrl + C**: Ends the current process in the terminal.
-- **Ctrl + Z**: Pauses the current process in the terminal.
-- **Tab**: Completes the command if it finds a relevant match or lists all possible commands.
-- **Double Tab**: Lists all possible commands.
-- **Ctrl + D**: Logs out of the current terminal or closes the terminal application.
-- **Ctrl + A**: Moves the cursor to the beginning of the line.
-- **Ctrl + E**: Moves the cursor to the end of the line.
-- **Ctrl + U**: Deletes from the cursor to the beginning of the line.
-- **Ctrl + K**: Deletes from the cursor to the end of the line.
-- **Ctrl + Y**: Pastes the last deleted text.
-- **Ctrl + R**: Searches through command history (reverse search).
-- **Ctrl + P**: Displays the previous command in the history.
-- **Ctrl + N**: Displays the next command in the history.
-- **Up/Down Arrow**: Navigates through command history.
-- **Left/Right Arrow**: Moves the cursor left or right one character at a time.
+- Ctrl + L: Clears the terminal screen.
+- Ctrl + C: Ends the current process in the terminal.
+- Ctrl + Z: Pauses the current process in the terminal.
+- Tab: Completes the command if it finds a relevant match or lists all possible commands.
+- Double Tab: Lists all possible commands.
+- Ctrl + D: Logs out of the current terminal or closes the terminal application.
+- Ctrl + A: Moves the cursor to the beginning of the line.
+- Ctrl + E: Moves the cursor to the end of the line.
+- Ctrl + U: Deletes from the cursor to the beginning of the line.
+- Ctrl + K: Deletes from the cursor to the end of the line.
+- Ctrl + Y: Pastes the last deleted text.
+- Ctrl + R: Searches through command history (reverse search).
+- Ctrl + P: Displays the previous command in the history.
+- Ctrl + N: Displays the next command in the history.
+- Up/Down Arrow: Navigates through command history.
+- Left/Right Arrow: Moves the cursor left or right one character at a time.
 
 ## Other Useful Shortcuts
 
-- **Ctrl + J**: Enters the command (equivalent to pressing Enter).
-- **Ctrl + O**: Executes the command from the search mode.
-- **Ctrl + G**: Leaves the search mode without executing a command.
-- **Ctrl + Alt + D**: Minimizes all windows and shows the desktop.
-- **Ctrl + H**: Deletes the character before the cursor (backspace).
+- Ctrl + J: Enters the command (equivalent to pressing Enter).
+- Ctrl + O: Executes the command from the search mode.
+- Ctrl + G: Leaves the search mode without executing a command.
+- Ctrl + Alt + D: Minimizes all windows and shows the desktop.
+- Ctrl + H: Deletes the character before the cursor (backspace).
 
 ## Additional Tips
 
-- **Repeated Ctrl + R**: Continues searching through command history for the same string.
-- **Ctrl + R**: Searches through command history (reverse search).
+- Repeated Ctrl + R: Continues searching through command history for the same string.
+- Ctrl + R: Searches through command history (reverse search).

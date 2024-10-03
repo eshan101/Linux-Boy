@@ -87,8 +87,8 @@ To ignore diacritics and accent differences, use the `-t` option (though this 
 
 ## Additional Tips
 
-- **Update the Database Periodically**: Ensure the database is updated regularly to include newly created files. This can be done manually with `sudo updatedb` or through a cron job.
-- **Understand the Limitations**: Remember that `locate` searches a pre-built database and may not reflect the most recent changes in the filesystem until the database is updated.
+- Update the Database Periodically: Ensure the database is updated regularly to include newly created files. This can be done manually with `sudo updatedb` or through a cron job.
+- Understand the Limitations: Remember that `locate` searches a pre-built database and may not reflect the most recent changes in the filesystem until the database is updated.
 
 ## Example Commands
 
