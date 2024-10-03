@@ -1,0 +1,26 @@
+# Terminal commands
+whoami => username
+hostname => computer name
+sudo vi /etc/hostname => change hostname
+id => gives group-id, etc...
+groups <user> => all groups in which the user is present
+
+lsb_release -a => some info 
+"No LSB modules are available.
+Distributor ID:	Ubuntu
+Description:	Ubuntu 24.04 LTS
+Release:	24.04
+Codename:	noble
+"
+
+cat /etc/os-release => info about os
+lscpu => cpu info
+
+uname -a => 
+"Linux alexmonk 6.8.0-35-generic #35-Ubuntu SMP PREEMPT_DYNAMIC Mon May 20 15:51:52 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux
+"
+
+uname -s => system
+uname -r => kernel version
+uname -p => processor
+uname -o => os
